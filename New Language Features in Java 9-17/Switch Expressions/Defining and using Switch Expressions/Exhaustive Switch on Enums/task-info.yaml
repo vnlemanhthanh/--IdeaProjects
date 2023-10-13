@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    placeholders:
+      - offset: 748
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 748
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Ks4nHsQcJMmglb5cwyZKNLidw3gfih+zK3yR6CR1ny42g5MEWwO4UyEP1rjyuBSh
+    encrypted_text: WEJEkhpCAL5HUFSlR3wpP9b5ZNSyLTdqqGpTzuaHSHiu30pfFTJQp7z0VC2Isdz72EDkfZ9VgWd9c74B6ZtROEfqTSZ8xL6eea1j8mqDCatq3Pdh2cqXpUU2d4tqac6kLP4yhPF/uorUvANmvRxd++zw5HuUYPicHRWzBxlcyR5IxUxd8mLXX2ZAAApFW2YJ1MqgjQNYlsS1uRcNDFZHyjH4Qjsr2Hl1hNaVUUW/3HciK997RBOqJkTe52eUDDsFC8Nog87EDDVURX8ZO/iv67HAgOuiDKk02jXUnLtKafVOHAcSuRveId7W4ETiRL0ruq52e+MGiEi1HFOAWvUyxRot0/S7iLfgN7GC6IzPaJ4udjlQ6264TaDXAYUYInBteUHYBsQXW6HGT8jeWy9rijyZFIrd6I8FULNlru00s0ALFEu3hT0ueO9Ll6ybSCyBUyCOOPXpEWpvkWfIVbjrhge5k2vvy5bdj6ioDM/68SXmkuzriiSLZZ6ctU54/pyyRIohTF6+jHk7u32/v7CG6PjGJ3AI+CiCUyGG4X2Anrjwc67v9dq3JnQ7BoI87ngVXgU+QtTi3itmWYdG42b97Z1xkU9s1STIZSB9TNZEzGY4GHRECA2X8ff62jhiW6cW/vpwiZSR85n+iYhw5x4CO94zKcdTSWNelAJ15XNSmsES8zz2cLi16bggMGf/Xqr5ZgROUuXn2peJWJdgQtZtYO5dzG++OItGNFNsWxYynv/GF2YeirS86CVQJdmjXJiau7mygtPvxgeGFAbXc2jPiuj7a1MuXDgPsxxrmT1NQ0/yjehhERjCIabpbb1yZpkGc8P69bqJh5wezyRbnfn0IyVk7jJLyeJsLf5eMtM2eJ1a2LPzI0E3Iti98yHuTRvELl8qLaLhELmLPNoQQF7n8pJ/ho5daCvFURikoIrpMnzzt9d1807gjRyK0bKkcmrmIvRA0k5JRizADxA1CIsxTBwhZhG9QBfnPy3XRC5y0/qfo4PNzDHi7lAiNT49lppo3Ds8KwJY5YjSG3jzCaIcmg==
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    encrypted_text: X4nYRKdwdNm5nCFhS9tNwiloKQYLBgqFaO6HEsV2fLVPik9E5ngQ7FJcbD3KO/l5ScD+BhRfBPGCPZiMwBnJiI1eWY58jTUIDCrtgUc4ekye9Ont/QFw2QGLAnsP38UWaV5VBq3H1CzRPp0/6JNOn38AWL/VauPCUgxFxZ7ySYu3HDz+5BWK24fTLaXPnjlVuQTNZgkA+aF0OIx7dREkIwybNs3C77ec0/0u++2DIdD+oZa6L8vIodXTUs9KjzJbJlxEynGNaewc73jNWfaD66oAQS2hxwprxE6wouXzJrKP951Nt79u9Vsl0KHxw5BOq50SYbLyhH3eJylDeHIodQbE/1XFNk7mL/rU659bnwGOEx4x0GAm/TPLZ/Z7NeoBOAxJ4qcIKQUu7D2lWScyhUfXHdN2CienbfEupbiLArwA5dGCLQeVKMvwBSLoRk+/rWyh24LoJoSILsuJKCBKMsHxg8Agj0PHHYdhugIK8S+yISgvyy6bT93wjY6Slu2AfUd7akMUcq+SXBj919PQRwHBuEcIC8kxgSVJljWHCvoLb8zc1x7SmrHguePvmo7U/Taj4ZxnJ56EqbyhAAyiWGX6dXQaeYnAObHNAW6jUdv5ra28S8Ou92RTHkAoh3r1lNU0S8NCDYHwayI9uJec4l1rweISUlPsVV4vXB04QP4ByMzASM6Z1PtYhdv6G56lwKxgsXP3C8yLqaUatINb06t3bGUOtPbgUOUNO7lJ4VfrZDj9Rans4btKBWtSeEwECFcFfmaBoWTxrFgNpSeKiHmasff5eDdjeNlr39gjInspkVGS5GheduPRbmj/3tdxRP4mKKG2unC2oZaAgiDTQVGf+YI04JLyY/1QRZ/0eTaDXYVNt1fxBA8YAEn7gn+9zlF3zej/QhXCjWwi+KFvz0YtpgjlMWuZtofcIoL79CIOflfk1IucSNtbP9Gv1BUmM7rTElJ49qLUN5XL3MBzVQDOczR6S+3agjdavDZPlDa+GfQHu0qgVjI7UVDTyyZr7Hwxw/5EiVJ01YOfQ0k0eqcdmHTgXa4zvg868iBXopSBA9+pN84L5jz4Pt3ht2dyHRvPKr8FOb+OZMXvVq6f8XF6Rpjjntj4iXRl4NT2MTwWxxXq+QJSgqLk4vIjJXPGQ+rbxfv4q3a03gJfAZr1uHFO39wdqpQBY+D8tV6MrO1j1AtvM42iU7MgobUS2EHl5i4W0IfU95BlVQVfQv1KMFkh1MmBLH0P5WYYXf5T70KD0Cwgsj7raPSqqkuMyept
+    learner_created: false
+  - name: src/Achievement.java
+    visible: true
+    placeholders:
+      - offset: 56
+        length: 29
+        placeholder_text: /* Add PLATINUM enum value */
+        initial_state:
+          length: 29
+          offset: 56
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: jYT+elR7PpDUu8TBCka08w==
+    encrypted_text: gkleDyz1W6hYY5cj/MJqMYMIf/F4pVi8sAArpOKHk8F0pN9Z/vRPQyv7icrjcX39MFYdH+dA9pHF5hDAqTkDUrau/fdUVAjapgSYaqMHjXZtz/p3Wvad93Z2JmsT5beD
+    learner_created: false
+status: Unchecked
+record: -1

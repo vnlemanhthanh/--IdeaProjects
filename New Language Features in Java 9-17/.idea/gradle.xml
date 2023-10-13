@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Pattern Matching/Pattern Matching with instanceof/Pattern Matching with instanceof" />
+            <option value="$PROJECT_DIR$/Records/Defining and using records/Introduction to Records" />
+            <option value="$PROJECT_DIR$/Records/Defining and using records/Overriding implicit methods" />
+            <option value="$PROJECT_DIR$/Records/Defining and using records/The canonical constructor" />
+            <option value="$PROJECT_DIR$/Records/Defining and using records/The compact canonical constructor" />
+            <option value="$PROJECT_DIR$/Records/Defining and using records/Using records" />
+            <option value="$PROJECT_DIR$/Records/Defining and using records/When to use records" />
+            <option value="$PROJECT_DIR$/Records/Records and reflection/Examining a record using reflection" />
+            <option value="$PROJECT_DIR$/Sealed Interfaces and Classes/Advanced topics for sealed types/Reflecting on sealed types" />
+            <option value="$PROJECT_DIR$/Sealed Interfaces and Classes/Advanced topics for sealed types/Use cases for sealed types" />
+            <option value="$PROJECT_DIR$/Sealed Interfaces and Classes/Defining sealed interfaces and classes/Introduction to sealed classes" />
+            <option value="$PROJECT_DIR$/Sealed Interfaces and Classes/Defining sealed interfaces and classes/Labeling the subclass" />
+            <option value="$PROJECT_DIR$/Sealed Interfaces and Classes/Location of subtypes/Sealed types and modules" />
+            <option value="$PROJECT_DIR$/Sealed Interfaces and Classes/Location of subtypes/The permits clause" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Additions to the Stream API/dropWhile(), takeWhile()" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Additions to the Stream API/mapMulti()" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Additions to the Stream API/toList()" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Additions to the String API/Additions to the String API" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Collection factory methods/Exercise" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Collection factory methods/Theory" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Local variable type inference (var)/Theory" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Local variable type inference (var)/When to use var" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Local variable type inference (var)/Where you can and can't use var" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Text Blocks/Advanced Text Blocks" />
+            <option value="$PROJECT_DIR$/Small additions (var, API, text blocks)/Text Blocks/Basics" />
+            <option value="$PROJECT_DIR$/Switch Expressions/Advanced Switch Expressions/yield" />
+            <option value="$PROJECT_DIR$/Switch Expressions/Defining and using Switch Expressions/Defining Switch Expressions" />
+            <option value="$PROJECT_DIR$/Switch Expressions/Defining and using Switch Expressions/Exhaustive Switch on Enums" />
+            <option value="$PROJECT_DIR$/Switch Expressions/Introduction to Switch Expressions/Switch Expressions in Action" />
+            <option value="$PROJECT_DIR$/Switch Expressions/Introduction to Switch Expressions/The Problem with Switch Statements" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+type: theory
+files:
+  - name: src/Point.java
+    visible: true
+    encrypted_text: rx/BxryaKVa1wpzFviBUgiIjWU7t0WUTDL9mUcHwOBDzjuJAxEkORkNWEbB9dXgC
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

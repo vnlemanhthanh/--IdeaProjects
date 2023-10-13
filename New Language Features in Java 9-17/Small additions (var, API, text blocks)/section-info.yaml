@@ -1,0 +1,6 @@
+content:
+  - Local variable type inference (var)
+  - Collection factory methods
+  - Additions to the Stream API
+  - Text Blocks
+  - Additions to the String API

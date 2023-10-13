@@ -1,0 +1,17 @@
+type: marketplace
+title: New Language Features in Java 9-17
+language: English
+summary: |-
+  <p>This course teaches you new language and API features introduced in Java 9 to 17 right in your favorite IDE:</p><ul> <li>the var keyword</li> <li>useful new API methods on Strings and streams</li> <li>new collection factory methods</li> <li>text blocks</li> <li>pattern matching with instanceof</li> <li>records</li> <li>switch expressions</li> <li>sealed interfaces and classes</li> </ul> <p>The examples are accompanied by recommendations when to use these new features.</p>
+   <p><strong>Target audience:</strong> You are an intermediate to experienced Java developer, familiar with Java 8, and want to learn about the new features you can use when developing on JDK 17 in depth.</p>
+programming_language: Java
+programming_language_version: 17
+content:
+  - Introduction
+  - "Small additions (var, API, text blocks)"
+  - Records
+  - Pattern Matching
+  - Switch Expressions
+  - Sealed Interfaces and Classes
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/21686-new-language-features-in-java-9-17/reviews

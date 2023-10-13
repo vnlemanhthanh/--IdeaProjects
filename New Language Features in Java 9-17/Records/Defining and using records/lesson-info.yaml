@@ -1,0 +1,7 @@
+content:
+  - Introduction to Records
+  - Using records
+  - The canonical constructor
+  - The compact canonical constructor
+  - Overriding implicit methods
+  - When to use records

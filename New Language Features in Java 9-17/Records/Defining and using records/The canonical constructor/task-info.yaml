@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    encrypted_text: X4nYRKdwdNm5nCFhS9tNwiloKQYLBgqFaO6HEsV2fLVPik9E5ngQ7FJcbD3KO/l5ScD+BhRfBPGCPZiMwBnJiBlnrBOY7Nd0/hdNFl01cmdaMzEj62xHo0zep6ynsTwO+ZJA28pOqM0YrdRgvR2zCt1AEVkXIOb4IGAzlNVIv48hzuLkCq6WfLN6w01gCTPI6YFgf6SYu83/PCbWBwjOvB8shAYJ0/RBtLLnvoUI5TUSyTRZSEUtO1tQOhJsqSwjcSjl7f1tYy05PsFewgoLA+2VB2EojTlaw/iAyTk8n543Nm7qAS9kcv15ru0vjNfHmOl9AZuPC0rTqNd3Z/+8QOufO6hO+HzcE8/xPYv1EPvA6JrPpZ2e6jTWblL5KAHa0mSc5kdMGGa0TLy40DYF2HG+4kMUzo7qT+9j4/lFfZFo9NHDSZ6E+HO9QmSi0nVNbFK2YgfVeC9Si00Ih0UonPDJeJ3FcP8r3Uv+kod1gs7tQHxoXjrflfpV8HlObgCvcEmQ/MrJVKvhnlcI+1CS8inmk9DpLcXkz8SvhmvZ+amS2noAOkD53otQTp/Yz3+24EoQlHGwmiSmZLWTLN4PWOJalJoYIbLtz0qt6/Yim+/QJoNcg9jhz4BiIRL6qE2DG3Ej+QI0zuxNk3FBJIyFN2bb3h663KUAVLzqeBBpHuPNGJr2izk6EA8V+/0Tt86nEYdm9enBKhjs8fXbHQqZKQbGIK+mumUD/Fm4/8PLOKJypCUdsX7wVkpezZn8U3gluXzkiwsVDrpnIyQUcFt2T16j7gGPHoCviStNfC75p4e14yVOU0K5WtepsuUzXK9nW/2koFJ00IQD8FBBMDTq/eBWBK1ZN0pEDCEB2QCAoaG3sJZgQBK4qLtFImAxx6ULHWJQz4bB6ZZRBVKUjrZZfVQF51L+tYQusssjM/tDD1E=
+    learner_created: false
+  - name: src/Range.java
+    visible: true
+    placeholders:
+      - offset: 42
+        length: 29
+        placeholder_text: /* define constructor here */
+        initial_state:
+          length: 29
+          offset: 42
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 6pYDUCyH5fno9XYThpm8yPNnzt/MHKaSLaNRcPNeZTPkpkD1KagSv05nSOsS8rYdBwe8G8soAO28eWHd31eOjKoEe0AWFWQO7Usls/Jtn2bhBgWLV/kfD591nv8fy1qto3fsra7gsua4j0pIoRt2m+KBaU8t7U0SfDGus+GrJM61++Uk6FMXc2XGyWVry6e9qgejsfHJ2G/qXXsM1PXmgKWaTYVnteFvnPZSWzgkXuW8OIWrMM1tQAZf8YYgztUdwi/QMQRQg2BxDyBQfTP8gQ==
+    encrypted_text: pIEJofbN9GoDT6/c0V3uz0tU1AmkUibS3ju0yKCjjR/Y0WxaI8vhQfJDCvQfcUroh9+PQQws4BVJ4PscdNxrjSGKeboomDy2lXI3Fs+5jjc=
+    learner_created: false
+status: Unchecked
+record: -1

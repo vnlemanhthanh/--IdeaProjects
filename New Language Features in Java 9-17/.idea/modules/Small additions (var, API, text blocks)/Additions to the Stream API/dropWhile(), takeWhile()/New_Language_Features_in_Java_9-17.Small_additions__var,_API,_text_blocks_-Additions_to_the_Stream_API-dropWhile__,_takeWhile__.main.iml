@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Small_additions__var,_API,_text_blocks_-Additions_to_the_Stream_API-dropWhile__,_takeWhile__:main" external.linked.project.path="$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Additions to the Stream API/dropWhile(), takeWhile()" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="New_Language_Features_in_Java_9-17" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Additions to the Stream API/dropWhile(), takeWhile()/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Additions to the Stream API/dropWhile(), takeWhile()/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Additions to the Stream API/dropWhile(), takeWhile()/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="New_Language_Features_in_Java_9-17.util.main" />
+  </component>
+</module>

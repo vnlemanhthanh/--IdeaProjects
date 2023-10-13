@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: false
+    encrypted_text: X4nYRKdwdNm5nCFhS9tNwiloKQYLBgqFaO6HEsV2fLVTN/0+Bxeq5wurh6Nf3ChdTvjP4XAlFnwAHc7Im+46UpaHCZNdLDrIuYnG+7BDNr6xDe4JlqLEZ+J70j9EWhOLexzKPx9p7m58JPkX7i5mOWWInGZheaFAN1B/cS3aKfnqqCIOuN3aBoBylz7v75luFO+wzjW9Wom4kXxtaHyZxFLvxv15Truzrnvz3QxE2xHe1h4w8TOXnQhbPemU9sfnF+2iRv+PA9Ngo6dUiyHOjbqf8I+hAcPZyZM3iE5wKMvt+DnB1HVrubmUM+qo90IxeZlYaD7XMsTmaV/NQY05pg==
+    learner_created: false
+  - name: src/Absolute.java
+    visible: true
+    placeholders:
+      - offset: 36
+        length: 42
+        placeholder_text: /* define compact canonical constructor */
+        initial_state:
+          length: 42
+          offset: 36
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: UiiRqYaLN7sbzkzSVxdQUwzJ3Q9oAg3uVVoM23OdEYZTpyQnGemMlpCJ/uAQONlM+xg0fBOLep7aH1P2OQnZLA==
+    encrypted_text: 3zhzP3aJl5NO1kHj50JIiSE/5BV6sqn31Sshkg4CuDgI3NaPXuE5Ru7Hy9CbZ3A2Jv2A0OvhgK0oxT7REnMfksnn6KUXhrwCIBxpelg1wR8efPgLmpfxiLP5z80MEuA7
+    learner_created: false
+status: Unchecked
+record: -1

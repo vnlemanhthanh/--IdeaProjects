@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Small_additions__var,_API,_text_blocks_-Text_Blocks-Basics" external.linked.project.path="$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Basics" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="New_Language_Features_in_Java_9-17" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Basics">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Basics/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Basics/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Basics/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

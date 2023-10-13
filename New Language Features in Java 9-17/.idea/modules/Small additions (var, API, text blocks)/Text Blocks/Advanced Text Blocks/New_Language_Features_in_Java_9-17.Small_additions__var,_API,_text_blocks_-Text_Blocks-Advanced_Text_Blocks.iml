@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Small_additions__var,_API,_text_blocks_-Text_Blocks-Advanced_Text_Blocks" external.linked.project.path="$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Advanced Text Blocks" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="New_Language_Features_in_Java_9-17" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Advanced Text Blocks">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Advanced Text Blocks/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Advanced Text Blocks/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Small additions (var, API, text blocks)/Text Blocks/Advanced Text Blocks/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

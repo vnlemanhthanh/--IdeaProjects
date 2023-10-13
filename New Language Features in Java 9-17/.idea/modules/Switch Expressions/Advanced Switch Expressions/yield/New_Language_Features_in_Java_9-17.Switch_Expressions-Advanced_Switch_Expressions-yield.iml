@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Switch_Expressions-Advanced_Switch_Expressions-yield" external.linked.project.path="$MODULE_DIR$/../../../../../Switch Expressions/Advanced Switch Expressions/yield" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="New_Language_Features_in_Java_9-17" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Switch Expressions/Advanced Switch Expressions/yield">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Switch Expressions/Advanced Switch Expressions/yield/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Switch Expressions/Advanced Switch Expressions/yield/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Switch Expressions/Advanced Switch Expressions/yield/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,49 @@
+type: theory
+files:
+  - name: src/taxonomy/Amphibian.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYi1aTS6/dZiuR6RBXN/GxufsxVfkPZ3z1ujAjVODUaOmQ5HhTxscT+hG6r7if59dv2OTKNIVYWtBZCEeuNCAo+94=
+    learner_created: false
+  - name: src/taxonomy/Bird.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYi1aTS6/dZiuR6RBXN/GxufsonArxAIvjl45chFE7NHHIPWvCi4On8QeYoeqW30E68Tx49NAmUBtQkRrMwhKWqrM=
+    learner_created: false
+  - name: src/taxonomy/Reptile.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYi1aTS6/dZiuR6RBXN/GxufuQ559hinDG323wz3x30N16Kbtit2IbaoJPFBHlvnB3KAafABAlTw9YL3HM2Vf86u4=
+    learner_created: false
+  - name: src/taxonomy/Vertebrate.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYi6KqcW98dPetknZUc+02/PayDSAePLDKeAu4JuGlD5ycIa49J0H6BJQuQeTkTxwLgsKEyc22Ymh6no/GE3LYqfjTN1gWlBmmM46Ncf8Hhfsm9oijNhTSUeF4bBhT3Leayh7xlrCIGXx+1BY5hXUo+ezztsjry0QDflzKjokdFHVys84zRftCr32XQWGkDU4Ln4rByXGDRLa8NJKGEuyhQX4=
+    learner_created: false
+  - name: src/module-info.java
+    visible: true
+    encrypted_text: CPET3mkEga5j40ZOKdG3oN6iIYsq6UzNiNw3l2ntUEmrj4o3wHFeaWMS6R/PlakFBBtm88hqGZycxwE7YsgW41zeiMvlQyGEtYHhoKjj0thKqAiBh6taAAzIiNdN7nkq
+    learner_created: false
+  - name: src/taxonomy/fish/CartilaginousFish.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYi4CK64QfOuN1s7/4z7Nm/GPN0FR+e+4m0qfXKOLaGs9V7QXlDovU0fvKwISTr2kehaNiy0H78opy1KAXqSD2eTg0a8sRnjsierqvj+sQdSji
+    learner_created: false
+  - name: src/taxonomy/fish/BonyFish.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYi4CK64QfOuN1s7/4z7Nm/GPc+SqLc9zjEw9dXUx5xlmcyu93jjq3pkN2zqnvkWIraR6E8N7sw0sXG6MOMW+wyms=
+    learner_created: false
+  - name: src/taxonomy/fish/JawlessFish.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYi4CK64QfOuN1s7/4z7Nm/GOpg93vknj2eS2S1m4pfrKNMWrJVDtLsf1LXumCCy0s3k+eYoX2aUP01l3sPUXVjYM=
+    learner_created: false
+  - name: src/taxonomy/mammal/Human.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYiz++fqwWJ/ZV2KXk/Q9LeQGQFXVkpv5EST0/JkbhKLj8DRsWkjx4iZV5R9uHdKPnxwQWL9xH1UzK1x+BR1iAq8g=
+    learner_created: false
+  - name: src/taxonomy/mammal/Mammal.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYi5iR1aflXXhvbXgy3tjBd4iRGWpZSGcBEbnaOEVZoQFOLcDhvbk/+NpSkSQNaEEdxMYjYLT1reEElINrFgpEaJOdWzeRJqFvd7U6EnmdX848oPdfVNaZkBtcPHonBEqUUNoh8yrdXyhDtr4AjDpwpsc=
+    learner_created: false
+  - name: src/taxonomy/fish/Fish.java
+    visible: true
+    encrypted_text: qLWwAWBQfkjhsf/hvzdYi6e2tcaEDkUnHGW3S7q0wu2dbnqubxOFAFmqEoh73jN+UFpq1J60icNAd86/8Q4YK6cfFOicNGbXPEtTYT5Zj3fI4yNwP5DQEp8r7tY/ksuiFPkngkIbKoI8wFeG1NEwHM9w4gVWtwaQmGOSSxF4+izy85Qy9SBokRCURt9w/8jG5gMMzHSaKuN9U1dFz1Fhy8wXfRI7Yql6A2xh4T3QhFlRNdVggbz2XoT354pVxQ4dSmy5xLjgZOJjpYBSP5foeLYUtmZNFJzel/IPrZYMmlAOl//Tb4l0Pt411Uq1qMO4+LpUPQQ6yNK649fYMk31viAn1VQXSP9LURoxkZc4Jw0=
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,9 @@
+type: theory
+files:
+  - name: blank.txt
+    visible: true
+    encrypted_text: nnr1kVriXI+PYFjUz2Y7Swk2zXChVrdqWgVL+3RijcsvGa403dMBaXwy0QDlbycfx82rLc3X6fZZ02FHN9QsZh1MEiH47SYlExd7xn+o5VOSCpIohBTBMbkwS8LtMXUZZGYykPAbsaCmTVlGHqim+4igUTNH9QanGE+md/vDboSOriOH4gmEX2b4Mr6cNXCF
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true
